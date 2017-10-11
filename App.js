@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+import codePush from "react-native-code-push";
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
     'Cmd+D or shake for dev menu',
@@ -20,6 +20,13 @@ const instructions = Platform.select({
 });
 
 export default class App extends Component<{}> {
+  constructor(props) {
+    super(props);
+  }
+
+  componentDidMount() {
+    codePush.sync();
+  }
   render() {
     return (
       <View style={styles.container}>
