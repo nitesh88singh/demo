@@ -25,7 +25,10 @@ export default class App extends Component<{}> {
   }
 
   componentDidMount() {
-    codePush.sync();
+    codePush.sync({
+      updateDialog: true,
+      installMode: codePush.InstallMode.IMMEDIATE
+  });
   }
   render() {
     return (
