@@ -1,7 +1,7 @@
 import { AppRegistry,Alert,AppState } from 'react-native';
 import App from './App';
-import CodePush from 'react-native-code-push';
-import Push from 'mobile-center-push';
+// import CodePush from 'react-native-code-push';
+// import Push from 'mobile-center-push';
 // Push.setEventListener({
 //     pushNotificationRecieved:function({message='',title='<empty>'},{message += '\nCustom properties:\n'})
 // })
