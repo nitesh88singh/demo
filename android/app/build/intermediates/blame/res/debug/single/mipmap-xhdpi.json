@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/niteshkumar/Documents/innotical_project/demo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/niteshkumar/Documents/innotical_project/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/niteshkumar/Documents/demo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/niteshkumar/Documents/demo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
