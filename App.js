@@ -40,7 +40,7 @@ export default class App extends Component<{}> {
           heloo 
         </Text>
         <Text style={styles.instructions}>
-          {instructions}
+         ok
         </Text>
       </View>
     );
