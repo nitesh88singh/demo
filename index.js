@@ -6,4 +6,4 @@ import App from './App';
 //     pushNotificationRecieved:function({message='',title='<empty>'},{message += '\nCustom properties:\n'})
 // })
 //AppRegistry.registerComponent('demo', () => App);
-demo = codePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })(App);
+App = codePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })(demo);
