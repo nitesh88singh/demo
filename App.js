@@ -72,7 +72,7 @@ export default class App extends Component<{}> {
           heloo 
         </Text>
         <Text style={styles.instructions}>
-         okYJDGJKADSAJKL
+         okYJDGJKADSAJK
         </Text>
       </View>
     );
