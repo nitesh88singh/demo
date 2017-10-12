@@ -48,7 +48,7 @@ export default class App extends Component<{}> {
      
          if (AppState.currentState === 'active') {
            Alert.alert(title, message);
-           CodePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })
+           CodePush({ updateDialog: false, installMode: codePush.InstallMode.IMMEDIATE })
            Analytics.trackEvent("new error",{time:new Date().getTime()})
            
          }
@@ -72,7 +72,7 @@ export default class App extends Component<{}> {
           heloo 
         </Text>
         <Text style={styles.instructions}>
-         ok
+         okYJDGJKADSAJKL
         </Text>
       </View>
     );

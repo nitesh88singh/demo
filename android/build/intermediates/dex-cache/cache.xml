@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/niteshkumar/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/json-smart-2.3_3ecfac8a09d29a171ed4aa11703760054a46e5fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/niteshkumar/Documents/innotical_project/demo/android/app/build/intermediates/exploded-aar/demo/mobile-center-crashes/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +108,15 @@
         revision="23.0.1"
         sha1="a44c43ebc1fe6c6ca61f9df1e2b6f062d79f2e62">
         <dex dex="/Users/niteshkumar/Documents/innotical_project/demo/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-0.12.0_e5179772323c7028b210efc86b62a694d16009be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/accessors-smart-1.2_9d42797b6b014ab30f844a22563c6882b5e1cae3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -135,6 +153,15 @@
         revision="23.0.1"
         sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
         <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_490ea096e58b5976285a7514b7e3c7231868d329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/jcip-annotations-1.0-1_b89ab9e911d6565b147e196198116ca62b30c759.jar" />
     </item>
     <item
         is-multidex="false"
@@ -336,6 +363,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/niteshkumar/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/nimbus-jose-jwt-5.1_73df1a63ef167bf6f488e0aeca35400006b86c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -351,6 +387,15 @@
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
         <dex dex="/Users/niteshkumar/Documents/innotical_project/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_de133675d1d49ec27abee68241ff2541edd8bc10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/asm-5.0.4_15027b3f659d941e37469e60ca24f01370e57dac.jar" />
     </item>
     <item
         is-multidex="false"
@@ -495,6 +540,15 @@
         revision="23.0.1"
         sha1="9cc3502f642f0bd6e8c68f515161c9d15a5de04e">
         <dex dex="/Users/niteshkumar/Documents/innotical_project/demo/android/app/build/intermediates/pre-dexed/debug/demo-mobile-center-analytics-unspecified_8e741fbcaa448c857e11570baaf1b15a79ab967f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/exploded-aar/demo/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7cefb9f21e4329bbc8e44d10857db7c320c4d2">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-code-push-unspecified_2cfcf4c21759f3e0a83da46e58e63f72fa3621bf.jar" />
     </item>
     <item
         is-multidex="false"
