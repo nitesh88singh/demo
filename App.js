@@ -66,7 +66,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome here use
+          W
         </Text>
         <Text style={styles.instructions}>
           heloo 
