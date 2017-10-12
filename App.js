@@ -20,8 +20,7 @@ const instructions = Platform.select({
   android: 'Double tap R on your keyboard to reload,\n' +
     'Shake or press menu button for dev menu',
 });
-
-export default class App extends Component<{}> {
+ class App extends Component<{}> {
   constructor(props) {
     super(props);
   }
@@ -97,3 +96,5 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
+
+export default App=CodePush(App)
