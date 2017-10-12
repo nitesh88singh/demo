@@ -34,7 +34,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-            new CodePush("0WFJqOd_WgONKtGi3aam2ibfp4q99b539165-b09d-49fa-811b-9b778d44c378", getApplicationContext(), BuildConfig.DEBUG),
+            new CodePush(null, getApplicationContext(), BuildConfig.DEBUG),
             new RNPushPackage(MainApplication.this),
             new RNCrashesPackage(MainApplication.this, getResources().getString(R.string.mobileCenterCrashes_whenToSendCrashes)),
             new RNAnalyticsPackage(MainApplication.this, getResources().getString(R.string.mobileCenterAnalytics_whenToEnableAnalytics)),
