@@ -25,21 +25,7 @@ export default class App extends Component<{}> {
   }
 
   componentWillMount() {
-    codePush.sync({ updateDialog: true },
-      (status) => {
-          switch (status) {
-              case codePush.SyncStatus.DOWNLOADING_PACKAGE:
-                  // Show "downloading" modal
-                  break;
-              case codePush.SyncStatus.INSTALLING_UPDATE:
-                  // Hide "downloading" modal
-                  break;
-          }
-      },
-      ({ receivedBytes, totalBytes, }) => {
-        /* Update download modal progress */
-      }
-    );
+    
   }
   render() {
     return (
