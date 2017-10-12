@@ -24,11 +24,22 @@ export default class App extends Component<{}> {
     super(props);
   }
 
-  componentDidMount() {
-    codePush.sync({
-      updateDialog: true,
-      installMode: codePush.InstallMode.IMMEDIATE
-  });
+  componentWillMount() {
+    codePush.sync({ updateDialog: true },
+      (status) => {
+          switch (status) {
+              case codePush.SyncStatus.DOWNLOADING_PACKAGE:
+                  // Show "downloading" modal
+                  break;
+              case codePush.SyncStatus.INSTALLING_UPDATE:
+                  // Hide "downloading" modal
+                  break;
+          }
+      },
+      ({ receivedBytes, totalBytes, }) => {
+        /* Update download modal progress */
+      }
+    );
   }
   render() {
     return (
