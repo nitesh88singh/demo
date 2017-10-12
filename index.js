@@ -5,4 +5,5 @@ import App from './App';
 // Push.setEventListener({
 //     pushNotificationRecieved:function({message='',title='<empty>'},{message += '\nCustom properties:\n'})
 // })
-AppRegistry.registerComponent('demo', () => App);
+//AppRegistry.registerComponent('demo', () => App);
+demo = codePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })(App);
