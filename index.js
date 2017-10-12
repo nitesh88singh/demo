@@ -2,7 +2,9 @@ import { AppRegistry,Alert,AppState } from 'react-native';
 import App from './App';
  import CodePush from 'react-native-code-push';
  import Push from 'mobile-center-push';
+ import Analytics from 'mobile-center-analytics'
  Push.setEventListener({
+     
     pushNotificationReceived: function (pushNotification) {
       let message = pushNotification.message;
       let title = pushNotification.title;
@@ -21,6 +23,9 @@ import App from './App';
   
       if (AppState.currentState === 'active') {
         Alert.alert(title, message);
+        codePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })
+        Analytics.trackEvent("new error",{time:new Date().getTime()})
+        
       }
       else {
         // Sometimes the push callback is received shortly before the app is fully active in the foreground.
@@ -28,7 +33,8 @@ import App from './App';
         // in the foreground before displaying any UI. You could use AppState.addEventListener to be notified
         // when the app is fully in the foreground.
       }
-    }
+    },
+    
   });
-const demo = codePush({ updateDialog: true, installMode: codePush.InstallMode.IMMEDIATE })(App);
-AppRegistry.registerComponent('demo', () => demo);
+ 
+AppRegistry.registerComponent('demo', () => App);
