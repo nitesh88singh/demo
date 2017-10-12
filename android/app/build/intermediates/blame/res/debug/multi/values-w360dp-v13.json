@@ -35,7 +35,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/Users/niteshkumar/Documents/demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w360dp/values-w360dp.xml",
+                    "file": "/Users/niteshkumar/.android/build-cache/1858c432904ddbc691806435fe943ad985aaf378/output/res/values-w360dp/values-w360dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
