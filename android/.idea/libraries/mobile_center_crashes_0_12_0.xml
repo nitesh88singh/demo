@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mobile-center-crashes-0.12.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../node_modules/mobile-center-crashes/android/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-crashes/0.12.0/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/mobile-center-crashes/android/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-crashes/0.12.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.mobile/mobile-center-crashes/0.12.0/35fbc1575d106e48c40bf0559cb09263886b5551/mobile-center-crashes-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
