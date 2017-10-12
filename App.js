@@ -48,7 +48,7 @@ export default class App extends Component<{}> {
      
          if (AppState.currentState === 'active') {
            Alert.alert(title, message);
-           CodePush({ updateDialog: false, installMode: codePush.InstallMode.IMMEDIATE })
+           CodePush.sync({ updateDialog: false, installMode: codePush.InstallMode.IMMEDIATE })
            Analytics.trackEvent("new error",{time:new Date().getTime()})
            
          }

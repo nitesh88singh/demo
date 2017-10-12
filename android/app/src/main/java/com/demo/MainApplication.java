@@ -1,7 +1,7 @@
 package com.demo;
 
 import android.app.Application;
-
+import com.microsoft.codepush.react.ReactInstanceHolder;
 import com.facebook.react.ReactApplication;
 import com.microsoft.codepush.react.CodePush;
 import com.microsoft.azure.mobile.react.push.RNPushPackage;
@@ -19,6 +19,11 @@ import java.util.List;
 public class MainApplication extends Application implements ReactApplication {
 
   private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
+
+  public void onCreate() {
+     CodePush.setReactInstanceHolder(mReactNativeHost);
+     super.onCreate();
+  }
 
         @Override
         protected String getJSBundleFile() {
