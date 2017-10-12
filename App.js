@@ -8,7 +8,7 @@ import React, { Component } from 'react';
 import {
   Platform,
   StyleSheet,
-  Text,
+  Text,AppState,Alert,
   View
 } from 'react-native';
 import CodePush from 'react-native-code-push';
