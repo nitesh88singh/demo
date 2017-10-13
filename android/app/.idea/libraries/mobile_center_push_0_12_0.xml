@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mobile-center-push-0.12.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/0ddd3a242bf41d85a95c28af45f4d0adb1a920c5/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0ddd3a242bf41d85a95c28af45f4d0adb1a920c5/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.azure.mobile/mobile-center-push/0.12.0/c09eed4bdac23f83751e58afddaaa19009ed09ea/mobile-center-push-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
