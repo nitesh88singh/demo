@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="mobile-center-push-0.12.0">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../node_modules/mobile-center-push/android/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-push/0.12.0/res" />
-      <root url="jar://$PROJECT_DIR$/../node_modules/mobile-center-push/android/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-push/0.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0ddd3a242bf41d85a95c28af45f4d0adb1a920c5/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0ddd3a242bf41d85a95c28af45f4d0adb1a920c5/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
