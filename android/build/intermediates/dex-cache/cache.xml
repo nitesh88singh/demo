@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/.android/build-cache/4347e9ae2b1e61f291f38ccc1a9d53b30f3d245e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_46e251f34aefcd323bee4e0ba1c1babdbc130787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/node_modules/mobile-center-crashes/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8163f60dd1c3d9a382afe3f17a11001e3681ea51">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_66eedd2b6b6305e0671ad7eed042e8d78ecb8e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/node_modules/mobile-center-analytics/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cc3502f642f0bd6e8c68f515161c9d15a5de04e">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_fd31d7272aaa3504c6c99628502874eb223a5392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7cefb9f21e4329bbc8e44d10857db7c320c4d2">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_2082c4b13db7c56c13e7164c5d0f9b57af140d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/.android/build-cache/4347e9ae2b1e61f291f38ccc1a9d53b30f3d245e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_b55604f5701211d8cbcc3383fbb133d7c4985b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/node_modules/mobile-center/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff542812ce3e53edb249a3690a532322e736e412">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_82b4d2c3723162d45320eff6fb0328e204f02d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niteshkumar/Documents/demo/node_modules/mobile-center-push/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fd3e7b6bce95b40b63615d76f02f8d6af4da53d">
+        <dex dex="/Users/niteshkumar/Documents/demo/android/app/build/intermediates/pre-dexed/debug/classes_c359fe133cafd69a2e9b77bc5dcc4082f0e05286.jar" />
+    </item>
+
+</items>

@@ -26,7 +26,7 @@ MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/niteshkumar/.androi
 		ADDED from /Users/niteshkumar/Documents/demo/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/niteshkumar/Documents/demo/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/91938c04a4331e75efee3b0e72f40490cb4b3ee4/output/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/4347e9ae2b1e61f291f38ccc1a9d53b30f3d245e/output/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/niteshkumar/Documents/demo/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
@@ -42,7 +42,7 @@ MERGED from [com.microsoft.azure.mobile:mobile-center-analytics:0.12.0] /Users/n
 MERGED from [demo:mobile-center:unspecified] /Users/niteshkumar/Documents/demo/node_modules/mobile-center/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.10.0] /Users/niteshkumar/.android/build-cache/43520b16e366155beff8a82b39f3a35325b18b5c/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.microsoft.azure.mobile:mobile-center:0.12.0] /Users/niteshkumar/.android/build-cache/5d281eb971e761f1dba4020ecdc6026092d64910/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/91938c04a4331e75efee3b0e72f40490cb4b3ee4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/4347e9ae2b1e61f291f38ccc1a9d53b30f3d245e/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/niteshkumar/.android/build-cache/1858c432904ddbc691806435fe943ad985aaf378/output/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/niteshkumar/.android/build-cache/f5aec131c62cc62689a58da6fd401de68d68f956/output/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/niteshkumar/.android/build-cache/490530ea61fd826a15ce5e1f45f3f86b21c80a68/output/AndroidManifest.xml:5:5-7:41
@@ -80,7 +80,7 @@ ADDED from /Users/niteshkumar/Documents/demo/android/app/src/main/AndroidManifes
 MERGED from [demo:react-native-code-push:unspecified] /Users/niteshkumar/Documents/demo/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:19
 MERGED from [com.microsoft.azure.mobile:mobile-center-push:0.12.0] /Users/niteshkumar/.android/build-cache/0ddd3a242bf41d85a95c28af45f4d0adb1a920c5/output/AndroidManifest.xml:12:5-27:19
 MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/niteshkumar/.android/build-cache/ec08cd577d616fb05af73d6b106d0a45fe35ae26/output/AndroidManifest.xml:19:5-29:19
-MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/91938c04a4331e75efee3b0e72f40490cb4b3ee4/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/niteshkumar/.android/build-cache/4347e9ae2b1e61f291f38ccc1a9d53b30f3d245e/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/niteshkumar/.android/build-cache/1858c432904ddbc691806435fe943ad985aaf378/output/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/niteshkumar/.android/build-cache/0269706f23799ba5f6b1cf8b1ce4bccd219dca23/output/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/niteshkumar/.android/build-cache/bdb05619c024cff81c61332a937d85a235d8c4b0/output/AndroidManifest.xml:2:3-17
